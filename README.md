@@ -17,6 +17,7 @@
 
 ### [Graph-based Vulnerability Discovery - Featuring Dr. Tom Ganz](https://www.youtube.com/watch?v=KWG5v1oHwMM)
 ### [Graph Representation Learning (Stanford university)](https://youtu.be/YrhBZUtgG4E?si=Z9AbfhI_ouKl48YY)
+### [Graph Neural Networks - Theory, Applications and Research](https://youtube.com/playlist?list=PLPTV0NXA_ZSg4Pimkso0nHxwYMB6IGX7l&si=LLfTAqWyhhvchRFj)
 ### 3b1b: [Neural networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=YywqY28auQHWvN2x)
 
 ## Articles
