@@ -1,6 +1,6 @@
 # Final Year Project
 
-### Hybrid GNN-LLM Pipeline for C/C++ Vulnerability Detection and Patch suggetion
+### Hybrid GNN-LLM Pipeline for C/C++ Vulnerability Detection and Patch suggestion
 ---
 ### Objectives
 - #### Convert the cached C/C++ parent codebase and new code into a graph representation.
