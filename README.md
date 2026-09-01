@@ -27,7 +27,9 @@
 - #### [NiteAgent: Code Review Agent](https://niteagent.com/blog/building-ai-code-review-agent/?hl=enIN#:~:text=Multi%2DAgent%20Code%20Review%20Architecture%20The%20production%20architecture,review%2C%20deduplicates%2C%20%E2%94%82%20%E2%94%82%20prioritizes%2C%20formats%20output)
 - #### [Dzone: Modern Vulnerability Detection: Using GNNs to Find Subtle Bugs](https://dzone.com/articles/modern-vulnerability-detection-gnns-subtle-bugs)
 - #### [keygraph, The Startup](https://keygraph.io/agentic-sast)
-
+---
+### Related GitHub links:
+- #### Taint Graph extractor: https://github.com/SAP-archive/security-research-taintgraphs
 ---
 ### Datasets
 
@@ -51,6 +53,3 @@
 - **MegaVul**: Designed specifically with pre-generated Joern CPGs. It aligns directly with multi-relational GNNs (e.g., `FastVulnGNN`), supporting 33 distinct node types and 21 relation edge types (such as `AST`, `CFG`, `REACHING_DEF`, and `POST_DOMINATE`).
 - **FormAI-v2**: Contains LLM-generated code verified using ESBMC (Efficient SMT-based Bounded Model Checker). It provides noise-free ground truth for training CPG query generators and edge-conditioned classifiers without commit-scraping label noise. 
 - **SARD / NIST Juliet**: Provides ground-truth statement-level triggers (e.g., CWE-121 through CWE-126 buffer overflows). It is used for both node classification (sink point detection) and hybrid training when mixed with real-world code to stabilize GNN convergence.
----
-## [Agent workflow architecture](complete-architecture-specification.md)
-
