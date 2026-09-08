@@ -5,7 +5,7 @@
 > Edge-conditioned GNN architecture
 
 ---
-### [Dynamic edge-conditioned filters in convolutional neural networks on graphs](https://arxiv.org/abs/1704.02901)
+### Edge conditioned GNNs: [Dynamic edge-conditioned filters in convolutional neural networks on graphs](https://arxiv.org/abs/1704.02901)
 ---
 ### The CPG paper: [Modeling and Discovering Vulnerabilities with Code Property Graphs](https://ieeexplore.ieee.org/document/6956589)
 ---
@@ -15,7 +15,7 @@
 ---
 ### Codebadger: [Bridging Code Property Graphs and Language Models for Program Analysis](https://arxiv.org/abs/2603.24837v1)
 ---
-### [LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models](https://arxiv.org/abs/2507.16585v1)
+### Evaluation metrics: [An Empirical Study of Deep Learning Models for Vulnerability Detection](https://arxiv.org/abs/2212.08109)
 ---
 ### [MegaVul: A C/C++ Vulnerability Dataset with Comprehensive Code Representation](https://arxiv.org/abs/2406.12415)
 ---
@@ -34,3 +34,6 @@
 
 - #### [Learning to Locate: GNN-Powered Vulnerability Path Discovery in Open Source Code](https://arxiv.org/abs/2507.17888v1)
 > 	GNN to find Potential sink points, VulPathFinder
+
+- #### [LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models](https://arxiv.org/abs/2507.16585v1)
+- #### [Verify Before You Fix: Agentic Execution Grounding for Trustworthy Cross-Language Code Analysis](https://arxiv.org/abs/2604.10800)
